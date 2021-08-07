@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: -apple-system, 'Helvetica Neue', "Helvetica", "Arial", sans-serif;
+    /* font-weight: 600; */
+    font-size: 18px;
+    background:#fafafa;
+    /* background-color: rosybrown; */
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 39px;
+    line-height: 1;
+}
+
+h4 {
+    margin: 0;
+}
+
+footer {
+    font-size: 12pt;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 62px 24px;
+    line-height: 32px;
+}
+
+#position {
+    font-size: 24px;
+    font-weight: 400;
+    /* color: rgba(0, 0, 0, 0.75); */
+}
+
+.block {
+    margin-top: 44px;
+}
+
+.subtitle {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 12pt;
+}
+
+.experience {
+    padding-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.content {
+    width: 500px;
+}
